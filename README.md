@@ -27,6 +27,7 @@ This showcases:
 
 ## 📦 Tools & Accounts Required
 | Platform | Purpose |
+|----------|---------|
 | SAP S/4HANA Cloud | Export demo sales/finance data |
 | Google Cloud (BigQuery + GCS) | Load user comments from a .txt file |
 | Snowflake | Central data warehouse + dashboards |
@@ -83,20 +84,3 @@ Use Snowflake Cortex (Forecast or Document AI) to:
 - Predict future sales from SAP data
 - Summarize or classify user comments (if enough samples)
 
----
-
-## 📁 GitHub Folder Structure
-sap-bigquery-snowflake-unified-analytics/
-├── README.md
-├── /data/
-│   ├── sap_sales_sample.csv
-│   └── user_comments.txt
-├── /scripts/
-│   ├── load_sap_to_snowflake.sql
-│   ├── load_bigquery_to_snowflake.sql
-│   └── data_modeling.sql
-├── /dashboards/
-│   └── snowsight_screenshots/
-└── /docs/
-    ├── architecture.png
-    └── integration_steps.md
