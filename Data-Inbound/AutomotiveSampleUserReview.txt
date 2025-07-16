@@ -1,0 +1,66 @@
+
+product/productId: B000IZ8AZO
+product/title: Cortech Women's LRX Air Jacket - Plus/Large/Pink
+product/price: unknown
+review/userId: A17HSXT283RXWT
+review/profileName: anonymous
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1222732800
+review/summary: Great buy!
+review/text: I purchased a different jacket when I first got my motorcycle; but I only used it for about six months before needing a new one. In my local shop; they had no plus-sized women's jackets; so I was wearing a men's jacket; and the plates weren't in good places to be protective in case of an accident. This jacket runs true to size; and seems more durable than the other brand of jacket I had (Joe Rocket). The two separate zip-out liners are very convenient and easy. I am very happy with the fit and quality. I ride about two hours a day; on the interstate; and my old jacket started to fray at certain seams after only a month or so. I have had this one for over a month; and there are no signs of wear. In addition; the jacket is comfortable from 95 degrees down to 50 degrees (with appropriate clothing underneath; of course). It may work in even colder weather; but I haven't ridden in anything colder than 50. Overall; I'm really; really pleased with this purchase!
+
+product/productId: B000IZ8AZO
+product/title: Cortech Women's LRX Air Jacket - Plus/Large/Pink
+product/price: unknown
+review/userId: A3K2S5XC8IFAHI
+review/profileName: Joan Henry
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1338076800
+review/summary: Great jacket for the money
+review/text: This jacket met every expectation and more. Although heavy; it is comfortable and can be snugged down for a more "tailored" fit. If anything could be a "con" its the zippers...when the linings are out; there are a lot of zippers exposed and I often try to zip the wrong ones! The liners are great....keep you dry; keep off the wind; or keep you warm. I have no complaints. The jacket may be short for some people...but I'm very short-waisted and it fits me perfect. I sized up 1 size and it is quite comfortable.
+
+product/productId: B000L2LGUU
+product/title: Auto Accident Kit And Organizer
+product/price: unknown
+review/userId: A297SKGNX8HXXL
+review/profileName: L. Nichols
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323648000
+review/summary: check it out
+review/text: This is a cute little kit that doesn't take up a lot of space; but it has everything you might need in case of an car accident. This would make a great gift for someone who has just gotten their first car.
+
+product/productId: B000E267RO
+product/title: Reese Towpower 51047 Pro Series Class III Hitch with 2" Square Tube Receiver
+product/price: 134.51
+review/userId: A3GDZ6P9XZEVGO
+review/profileName: doc "viper"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1357344000
+review/summary: the best
+review/text: I've never belived in this perfect fit stuff.....until now! All I had to do was bolt this in place to existing mounting holes on my toyota tundra. The job took 10 minutes and I was towing my boat. This is truely a perfect fit. Couldn't have asked for a better product
+
+product/productId: B000F158BA
+product/title: DashMat Original Dashboard Cover Pontiac Bonneville (Premium Carpet; Dash Blue)
+product/price: 32.18
+review/userId: A1A4U27E8Z4PR4
+review/profileName: K. Galey
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1268092800
+review/summary: Doesn't Fit
+review/text: I ordered this DashMat for a specific vehicle; it was not the correct mat. I returned the original one and they sent me an exact duplicate of the wrong mat. I can't seem to get the correct one and therefore it sits in a box!!!!!!
+
+product/productId: B00092COYO
+product/title: AutoXray EZ-Scan 5000 Scanner
+product/price: 298.15
+review/userId: A1MAYUB51MZF64
+review/profileName: crawdoogie
+review/helpfulness: 5/5
+review/score: 2.0
+review/time: 1198454400
+review/summary: needs $$ upgrade
+review/text: Only has limited access to OBDII data stream unless you pay more money to upgrade the software.
